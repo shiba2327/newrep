@@ -3,10 +3,10 @@
     grid-template-columns: auto auto auto auto auto auto auto auto;
     height: 800px;
     width: 800px;
-    border: 10px solid gray;
+    border: 10px solid rgb(241, 217, 217);
 }
 .black{
-    background-color: black;
+    background-color: aqua;
 }
 .box{
     background-color: white;
